@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.toonin.ml" target="_blank">
-    <img alt="Toonin Icon" width="100" src="https://github.com/grey-software/toonin/raw/master/assets/icon.png">
+  <a href="https://github.com/grey-software/LinkedIn-Focus" target="_blank">
+    <img alt="LinkedIn-Focus Icon" width="100" src="https://raw.githubusercontent.com/grey-software/LinkedIn-Focus/master/src/icon.png">
   </a>
 </p>
 
